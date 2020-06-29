@@ -6,6 +6,7 @@ public class Main {
     private int var2;
     private int var3;
     private int varOtra;
+    private int var4;
 
     public Main(int var1, int var2) {
         this.var1 = var1;
